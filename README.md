@@ -5,7 +5,7 @@
 This project involves cleaning, transforming, and analyzing an employee reimbursement dataset using Power BI. The tasks include correcting errors in the dataset, normalizing amounts to a single currency, and creating various measures and visuals to gain insights from the data.
 
 Screenshot_6-7-2024_155811_.JPEG
-![Employee Reimbursement Chart](./Screenshot_6-7-2024_155811_.JPEG)
+![Employee Reimbursement Chart](./Screenshot_6-7-2024_155811_.jpeg)
 
 
 ## Dataset
